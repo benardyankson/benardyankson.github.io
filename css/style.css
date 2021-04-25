@@ -12,5 +12,5 @@ body {
 
 .HomePage {
   margin: 0 auto;
-  display: block;
+  display: inline-block;
 }
