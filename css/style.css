@@ -4,3 +4,10 @@ html {
   font-family: 'Bauhaus', sans-serif;
   color: rgb(236, 226, 226);
 }
+
+body {
+  display: block;
+  font-size: 16px;
+  line-height: 1;
+  background-color: rgb(243, 234, 236);
+}
