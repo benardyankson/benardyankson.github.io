@@ -16,5 +16,10 @@ body {
 }
 
 image {
-  max-width: 25%;
+  border-radius: 30px; 
+  max-width: 250px;
+  box-shadow: 5px 5px 15px 5px #f0f1b0;
+  position: relative;
+  margin: 20px 15px 20px 15px;
+  float: right;
 }
