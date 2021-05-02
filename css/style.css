@@ -24,6 +24,7 @@ img {
 footer,
 header {
   text-align: center;
+  margin: 1.25rem auto;
   color: #C1BDB9;
   padding: 1.5rem auto;
 }
