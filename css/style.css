@@ -1,23 +1,27 @@
-html {
-  background-color: #aa8c38;
+body {
+  background-color: #C1BDB9;
   background-size: 25%;
   font-family: 'Bauhaus', sans-serif;
-  color: rgb(236, 226, 226);
 }
 
-body {
+header,
+main,
+footer {
+  max-width: 750px;
   display: block;
   font-size: 16px;
-}
-
-.HomePage,
-.foot {
   margin: 1.25rem auto;
+  background-color: #F2882B;
 }
 
-
-p img {
+img {
   border-radius: 20px; 
   max-width: 150px;
   margin: 20px 15px 20px 15px;
+}
+
+footer,
+header {
+  text-align: center;
+  color: ;
 }
